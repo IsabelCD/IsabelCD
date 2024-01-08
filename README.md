@@ -14,18 +14,18 @@ I am a Data Science student currently working at my university (Nova IMS) on a p
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Supervised Learning</b>
-  - [Project 1](link)
+  - [Predicting whether a person is sick given their characteristics](https://github.com/IsabelCD/predict_sick)
 - <b>Unsupervised Learning</b>
   - [Project 2](link) 
 - <b>Econometrics</b>
-  - [Project 3](link)
+  - [Exploring student performance comparing online and presential learning](https://github.com/IsabelCD/Statsproj)
 - <b>Reinforcement Learning</b>
-  - [Project 4](link)
+  - [Chess agent that learned to play against stockfish](https://github.com/inesleonidasrocha/ChessRL23)
 - <b>Optimization Algorithms</b>
-  - [Project 5](link)
+  - [Finding best exam schedule for Nottingham University](https://github.com/IsabelCD/timetabling)
 - <b>Other projects</b>
-  - [Thesis](link)
-  - [Recipe website using Django](link)
+  - [Thesis: evaluating the impact of retractions in literature](https://github.com/IsabelCD/Retractions)
+<!--  - [Recipe website using Django](link) -->
 
 <h2>📚 Education & Certifications</h2>
 
