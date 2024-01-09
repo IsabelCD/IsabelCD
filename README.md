@@ -30,16 +30,15 @@ I am a Data Science student currently working at my university (Nova IMS) on a p
 <h2>📚 Education & Certifications</h2>
 
 
-- [Master Degree in Data Science and Advanced Analytics, with a specialization in Data Science](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)
-- [Bachelor Degree in Information Management](https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-management/#)
-- [Exchange Semester at IT University of Copenhagen](https://itustudent.itu.dk/)
+- Master's Degree in [Data Science and Advanced Analytics, with a specialization in Data Science](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)
+- Bachelor's Degree in [Information Management](https://www.novaims.unl.pt/en/education/programs/bachelor-s-degrees/information-management/#)
+- Exchange Semester at [IT University of Copenhagen](https://itustudent.itu.dk/)
 
 <h2>🔗 Connect with Me:</h2>
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="IsabelCD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IsabelCD | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 <!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 [twitter]: https://twitter.com/joshmadakor
