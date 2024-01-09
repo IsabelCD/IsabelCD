@@ -1,5 +1,5 @@
 <h1>Hi, my name is Isabel!</h1>
-I am a Data Science student currently working at my university (Nova IMS) on a project to incorporate new statistical and machine learning techniques into the current auditing framework in Portugal. Throughout my journey, I had the opportunity to use several different tools for analysing and extracting useful information from data. To better understand each concept and how they might be useful in real-life scenarios, I applied the theoretical knowledge I acquired to different projects. Here's a glimpse of what I bring to the table, and projects that show my capabilities:
+I am a Data Science student currently working at my university (Nova IMS) on a project to incorporate new statistical and machine learning techniques into the current auditing framework in Portugal. Throughout my journey, I've explored various data science domains by applying my theoretical knowledge to different practical applications. Here's a glimpse of what I bring to the table, and projects that show my capabilities:
 
 
 <h2>🌟 Technical Skills:</h2>
@@ -16,7 +16,7 @@ I am a Data Science student currently working at my university (Nova IMS) on a p
 - <b>Supervised Learning</b>
   - [Predicting whether a person is sick given their characteristics](https://github.com/IsabelCD/predict_sick)
 - <b>Unsupervised Learning</b>
-  - [Project 2](link) 
+  - [Customer segmentation of an insurance firm](https://github.com/inesleonidasrocha/DM-groupAN-A2Z-Insurance) 
 - <b>Econometrics</b>
   - [Exploring student performance comparing online and presential learning](https://github.com/IsabelCD/Statsproj)
 - <b>Reinforcement Learning</b>
