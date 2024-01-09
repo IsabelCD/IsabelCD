@@ -5,7 +5,7 @@ I am a Data Science student currently working at my university (Nova IMS) on a p
 <h2>🌟 Technical Skills:</h2>
 
 - <b>Languages</b>: Proficient in Python (NumPy, Pandas, Scikit-learn), R, SQL.
-- <b>Statistics</b>: strong foundation in statistical analysis, hypothesis testing, regression models, and exploratory data analysis (EDA)
+- <b>Statistics</b>: Strong foundation in statistical analysis, hypothesis testing, regression models, and exploratory data analysis (EDA)
 - <b>Machine Learning</b>: Experienced in building predictive models, clustering, NLP, and deep learning architectures (TensorFlow, Keras).
 - <b>Data Visualization</b>: Expertise in creating informative visualizations using Matplotlib, Seaborn, and Tableau.
 - <b>Version Control</b>: Some experience using GitHub, ensuring smooth collaboration and project management.
@@ -39,6 +39,7 @@ I am a Data Science student currently working at my university (Nova IMS) on a p
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 [<img align="left" alt="IsabelCD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IsabelCD | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 <!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 [twitter]: https://twitter.com/joshmadakor
